@@ -1,10 +1,10 @@
 {
-  "name": "ourdailybeat",
+  "name": "gulpNbootstrapSTARTER",
   "version": "0.0.1",
-  "description": "The most creative calendar based blog alive...",
+  "description": "this is an empty project including bootstrap with a working gulpfile.js.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pascobey/ourdailybeat.git"
+    "url": "https://github.com/pascobey/gulpNbootstrapSTARTER.git"
   },
   "author": "Parker Scobey",
   "devDependencies": {
